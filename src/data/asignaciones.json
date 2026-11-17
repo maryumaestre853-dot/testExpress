@@ -1,0 +1,16 @@
+[
+  {
+    "idAsignacion": 1,
+    "idPiloto": 1,
+    "idAvion": 1,
+    "fechaVuelo": "2026-12-01",
+    "rutaAsignada": "BOG-MDE"
+  },
+  {
+    "idAsignacion": 3,
+    "idPiloto": 6,
+    "idAvion": 6,
+    "fechaVuelo": "2026-12-30",
+    "rutaAsignada": "BOG-CLO"
+  }
+]

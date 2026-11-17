@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "modelo": "A320neo",
+    "matricula": "HK-5318",
+    "capacidadMaxima": 186,
+    "fabricante": "Airbus"
+  },
+  {
+    "id": 2,
+    "modelo": "787-8 Dreamliner",
+    "matricula": "N784AV",
+    "capacidadMaxima": 250,
+    "fabricante": "Boeing"
+  },
+  {
+    "id": 4,
+    "modelo": "A321neo",
+    "matricula": "HK-5401",
+    "capacidadMaxima": 220,
+    "fabricante": "Airbus"
+  },
+  {
+    "id": 5,
+    "modelo": "A27shb",
+    "matricula": "HK-5468",
+    "capacidadMaxima": 100,
+    "fabricante": "taiwanes y japones"
+  },
+  {
+    "id": 6,
+    "modelo": "E190",
+    "matricula": "HK-9999",
+    "capacidadMaxima": 110,
+    "fabricante": "Embraer S.A."
+  }
+]

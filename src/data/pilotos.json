@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "nombre": "Cap. Sofía Mendoza",
+    "licencia": "ATP-90412",
+    "horasVuelo": 4850,
+    "estado": "DISPONIBLE"
+  },
+  {
+    "id": 2,
+    "nombre": "Cap. Andrés Restrepo",
+    "licencia": "ATP-78219",
+    "horasVuelo": 2600,
+    "estado": "EN_VUELO"
+  },
+  {
+    "id": 3,
+    "nombre": "Cap. Valeria Castaño",
+    "licencia": "ATP-84510",
+    "horasVuelo": 3120,
+    "estado": "DISPONIBLE"
+  },
+  {
+    "id": 5,
+    "nombre": "Karol Perez",
+    "licencia": "ATP-90478",
+    "horasVuelo": 4850,
+    "estado": "DISPONIBLE"
+  },
+  {
+    "id": 6,
+    "nombre": "Cap. Luis Gómez",
+    "licencia": "ATP-11111",
+    "horasVuelo": 2500,
+    "estado": "DISPONIBLE"
+  },
+  {
+    "id": 7,
+    "nombre": "Piloto Borrar",
+    "licencia": "ATP-99999",
+    "horasVuelo": 100,
+    "estado": "DISPONIBLE"
+  }
+]
